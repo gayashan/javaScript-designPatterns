@@ -1,4 +1,4 @@
-# javaScript-designPatterns
+# Design Patterns in JavaScript
 Simple examples of design patterns with JavaScript 
 
 Factory Design Pattern

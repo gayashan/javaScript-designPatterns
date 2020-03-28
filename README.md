@@ -1,2 +1,2 @@
 # javaScript-designPatterns
-Simple examples with JavaScript design patterns
+Simple examples of design patterns with JavaScript 

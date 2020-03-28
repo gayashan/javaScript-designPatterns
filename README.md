@@ -1,2 +1,12 @@
 # javaScript-designPatterns
 Simple examples of design patterns with JavaScript 
+
+Factory Design Pattern
+------------------------
+- Single place where creates all objects in the program
+- Object creation is centralized in factory method
+
+Singleton Design Pattern
+------------------------
+- restricts the instantiation of a class to one object.
+- as an example, creating single db connection to share with all objects 
